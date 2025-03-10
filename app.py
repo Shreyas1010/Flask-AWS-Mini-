@@ -1,6 +1,5 @@
 from flask import Flask
-import Math
-import numpy
+
 
 app = Flask(__name__)
 
